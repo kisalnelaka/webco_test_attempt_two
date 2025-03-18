@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fi-sidebar-item-label {
+    background-color: #6b98f1; /* blue-500 */
+}
